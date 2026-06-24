@@ -26,3 +26,10 @@ To visualize the time differences between the sorting algorithms, a chart can be
 <br><br>
 
 ![image](https://github.com/SarahAbuirmeileh/SortingAlgorithmsAnalysis/assets/127017088/32f3dce7-54c6-4f02-8be4-41794a75b3fb)
+
+
+## Author
+
+**Sarah Abu Irmeileh**
+- GitHub: [@SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
+- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarah-abu-irmeileh)
